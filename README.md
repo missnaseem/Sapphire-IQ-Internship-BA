@@ -29,7 +29,9 @@ section 4 - Payment, fulfillment and geographic performance
 
   
 ## 5. Dashboard preview
-![Dashboard](screenshots/dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6cb2f1b-34c8-48c4-8e24-4bc3f7b62eab" />
+
+
 
 
 ## 6. Key findings
