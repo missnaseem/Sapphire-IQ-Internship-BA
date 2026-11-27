@@ -8,13 +8,13 @@ Amazon India generates large volumes of sales transactions across multiple produ
 This dashboard is designed in a simple and easy-to-understand management dashboard for Manoj to submit to his manager, Ravi, who comes from a non-technical background. The dashboard will help Ravi monitor sales trends, profit performance, product and order performance, customer order status, payment methods, fulfillment status and geographic performance supporting better business understanding and decision-making. 
 
 ## 2. Dataset
-Number of rows - 10,000
-Number of columns - 13
-Date range -  1/1/2024 - 30/8/2026
+Number of rows - 10,000; 
+Number of columns - 13; 
+Date range -  1/1/2024 - 30/8/2026; 
 Briefs asked in each section:
-section 1 - Overall sales and profit performance
-section 2 - Category and product performance
-section 3 - Order status and revenue loss
+section 1 - Overall sales and profit performance;
+section 2 - Category and product performance;
+section 3 - Order status and revenue loss;
 section 4 - Payment, fulfillment and geographic performance
 
 ## 3. Data preparation
