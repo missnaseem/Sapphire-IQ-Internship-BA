@@ -1,10 +1,11 @@
 # Amazon India Sales Dashboard
-**Student:** [SABOORA NASEEM] | **Tool used:** [Excel]
+**Student:** SABOORA NASEEM| **Tool used:** Excel
 
 
 # 1. Project overview
-[2-3 sentences: the business problem and who the dashboard is for]
+Amazon India generates large volumes of sales transactions across multiple product categories, payment methods and fulfillment channels. Analysing these transactions individually makes it difficult to identify sales trends, profitability, patterns and operational issues.
 
+This dashboard is designed in a simple and easy-to-understand management dashboard for Manoj to submit to his manager, Ravi, who comes from a non-technical background. The dashboard will help Ravi monitor sales trends, profit performance, product and order performance, customer order status, payment methods, fulfillment status and geographic performance supporting better business understanding and decision-making. 
 
 ## 2. Dataset
 [Number of rows and columns, date range, and what each section of the brief
