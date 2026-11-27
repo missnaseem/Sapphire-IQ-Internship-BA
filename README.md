@@ -1,5 +1,5 @@
 # Amazon India Sales Dashboard
-**Student:** SABOORA NASEEM| **Tool used:** Excel
+**Student:** SABOORA NASEEM | **Tool used:** Excel
 
 
 # 1. Project overview
@@ -8,16 +8,24 @@ Amazon India generates large volumes of sales transactions across multiple produ
 This dashboard is designed in a simple and easy-to-understand management dashboard for Manoj to submit to his manager, Ravi, who comes from a non-technical background. The dashboard will help Ravi monitor sales trends, profit performance, product and order performance, customer order status, payment methods, fulfillment status and geographic performance supporting better business understanding and decision-making. 
 
 ## 2. Dataset
-[Number of rows and columns, date range, and what each section of the brief
-asked for]
-
+Number of rows - 10,000
+Number of columns - 13
+Date range -  1/1/2024 - 30/8/2026
+Briefs asked in each section:
+section 1 - Overall sales and profit performance
+section 2 - Category and product performance
+section 3 - Order status and revenue loss
+section 4 - Payment, fulfillment and geographic performance
 
 ## 3. Data preparation
-- Checks done: [missing values, duplicates, data types]
-- Fields I created: [for example Month-Year, Net Sales]
-- How I treated cancelled and returned orders: [your approach and why]
+- Checks done: neither duplicate values nor missing values found in the dataset
+- Fields I created: created order_month column to analyze changing sales and profit trends over the months and years.  
+- How I treated cancelled and returned orders:
+      - Kept all the cancelled and returned records as provided in the dataset.
+      - Analyzed orders separately using order_status.
+      - Compared order counts and sales values to understand cancellations and returns.
+      - Did not treat cancelled or returns sales as actual financial loss statements for business.
 
-  
 ## 4. KPI definitions
 - Total Sales = [formula or measure]
 - Profit Margin % = [formula or measure]
