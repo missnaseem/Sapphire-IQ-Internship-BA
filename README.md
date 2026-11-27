@@ -20,11 +20,7 @@ section 4 - Payment, fulfillment and geographic performance
 ## 3. Data preparation
 - Checks done: neither duplicate values nor missing values found in the dataset
 - Fields I created: created order_month column to analyze changing sales and profit trends over the months and years.  
-- How I treated cancelled and returned orders:
-      - Kept all the cancelled and returned records as provided in the dataset.
-      - Analyzed orders separately using order_status.
-      - Compared order counts and sales values to understand cancellations and returns.
-      - Did not treat cancelled or returns sales as actual financial loss statements for business.
+- How I treated cancelled and returned orders: Kept all the cancelled and returned records as provided in the dataset.Analyzed orders separately using order_status.Compared order counts and sales values to understand cancellations and returns.Did not treat cancelled or returns sales as actual financial loss statements for business because this approach provides  a more accurate picture of business performance whole helping identify potential issues in order fulfil
 
 ## 4. KPI definitions
 - Total Sales = [formula or measure]
