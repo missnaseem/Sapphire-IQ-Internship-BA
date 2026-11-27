@@ -1,43 +1,49 @@
-# Sapphire IQ – Business Analytics Internship
+# Amazon India Sales Dashboard
+**Student:** [SABOORA NASEEM] | **Tool used:** [Excel]
 
-**Business Analytics Internship Projects | Sapphire IQ**
 
-This repository contains projects completed as part of my Business Analytics Internship at Sapphire IQ.
+# 1. Project overview
+[2-3 sentences: the business problem and who the dashboard is for]
 
-## Project 01: Amazon India Sales Analysis
 
-**Objective:** Analyze Amazon India sales data to evaluate business performance, product trends, order status, payment methods, fulfillment methods, and geographical performance.
+## 2. Dataset
+[Number of rows and columns, date range, and what each section of the brief
+asked for]
 
-### Tools Used
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Excel Formulas
-- Data Analysis and Visualization
 
-### Project Objectives
-1. Overall Sales & Profit Performance
-2. Category & Product Performance
-3. Order Status & Revenue Loss
-4. Payment, Fulfillment & Geographic Performance
+## 3. Data preparation
+- Checks done: [missing values, duplicates, data types]
+- Fields I created: [for example Month-Year, Net Sales]
+- How I treated cancelled and returned orders: [your approach and why]
 
-### Key Analysis
-- Sales, profit, orders and units sold
-- Average Order Value (AOV)
-- Profit Margin
-- Monthly, quarterly, half-yearly and annual performance
-- Top 10 products by sales
-- Returns and cancellations
-- Payment method and fulfillment performance
-- State-wise sales and profit
+  
+## 4. KPI definitions
+- Total Sales = [formula or measure]
+- Profit Margin % = [formula or measure]
+- Return Rate % = [formula or measure]
 
-### Project Workbook
+  
+## 5. Dashboard preview
+![Dashboard](screenshots/dashboard.png)
 
-(https://1drv.ms/x/c/49e35bb93140f2b2/IQCEeWLH75ppR6oKbAWgwAELAShnKsBqQDMlhfGtWQpPs7k?e=nA4qv0)
 
-### Project Status
-Completed
+## 6. Key findings
+1. [A finding with a number, for example: Category X gives Y% of total sales]
+2. [Finding 2]
+3. [Finding 3]
 
----
+   
+## 7. Recommendations
+1. [An action the business can take, and the finding that supports it]
+2. [Recommendation 2]
+
+   
+## 8. How to use the dashboard
+[Which slicers and filters exist and what they do]
+
+
+## 9. Limitations
+[What the dashboard does not cover]
+
 
 *More Business Analytics internship projects will be added to this repository as they are completed.*
