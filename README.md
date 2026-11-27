@@ -30,7 +30,7 @@ section 4 - Payment, fulfillment and geographic performance
   
 ## 5. Dashboard preview
 DASHBOARD - <img width="1282" height="762" alt="image" src="https://github.com/user-attachments/assets/43ff9909-8d10-4b84-86e9-d1fb78fc8153" />
-OBJECTIVES - <img width="1195" height="831" alt="image" src="https://github.com/user-attachments/assets/18c6b5d7-86fa-4610-8355-4f3eb7fea160" />
+OBJECTIVES -<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d1750ac-f2ce-405f-bf65-5248fb10317a" />
 <img width="1740" height="862" alt="image" src="https://github.com/user-attachments/assets/5cff02d4-55d3-485e-b9db-d6bdc0cc52ba" />
 <img width="1458" height="848" alt="image" src="https://github.com/user-attachments/assets/616d1745-3f87-47e2-88b4-388d41e93475" />
 <img width="1310" height="866" alt="image" src="https://github.com/user-attachments/assets/a10d97a7-e1cf-464a-8d25-0e79e1d912e4" />
