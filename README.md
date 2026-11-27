@@ -20,12 +20,12 @@ section 4 - Payment, fulfillment and geographic performance
 ## 3. Data preparation
 - Checks done: neither duplicate values nor missing values found in the dataset
 - Fields I created: created order_month column to analyze changing sales and profit trends over the months and years.  
-- How I treated cancelled and returned orders: Kept all the cancelled and returned records as provided in the dataset.Analyzed orders separately using order_status.Compared order counts and sales values to understand cancellations and returns.Did not treat cancelled or returns sales as actual financial loss statements for business because this approach provides  a more accurate picture of business performance whole helping identify potential issues in order fulfil
+- How I treated cancelled and returned orders: Kept all the cancelled and returned records as provided in the dataset.Analyzed orders separately using order_status.Compared order counts and sales values to understand cancellations and returns.Did not treat cancelled or returns sales as actual financial loss statements for business because this approach provides  a more accurate picture of business performance whole helping identify potential issues in order fulfillment  , customer satisfaction and returns. 
 
 ## 4. KPI definitions
-- Total Sales = [formula or measure]
-- Profit Margin % = [formula or measure]
-- Return Rate % = [formula or measure]
+- Total Sales = =SUM('Amazon sales raw data'!H2:H10001) ; sum of all the sales
+- Profit Margin % = =SUM('Amazon sales raw data'!I2:I10001)/SUM('Amazon sales raw data'!H2:H10001) ; profits/sales
+- Return Rate % = total orders returned / total orders
 
   
 ## 5. Dashboard preview
@@ -51,4 +51,3 @@ section 4 - Payment, fulfillment and geographic performance
 [What the dashboard does not cover]
 
 
-*More Business Analytics internship projects will be added to this repository as they are completed.*
