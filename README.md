@@ -29,6 +29,9 @@ section 4 - Payment, fulfillment and geographic performance
 
   
 ## 5. Dashboard preview
+RAW DATA - [Amazon Sales Data India.xlsx](https://github.com/user-attachments/files/35541806/Amazon.Sales.Data.India.xlsx)
+DASHBOARD PDF - [Amazon Sales Data India (1).pdf](https://github.com/user-attachments/files/35541982/Amazon.Sales.Data.India.1.pdf)
+COMPLETE PROJECT PDF - 
 DASHBOARD - <img width="1282" height="762" alt="image" src="https://github.com/user-attachments/assets/43ff9909-8d10-4b84-86e9-d1fb78fc8153" />
 OBJECTIVES -<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d1750ac-f2ce-405f-bf65-5248fb10317a" />
 <img width="1740" height="862" alt="image" src="https://github.com/user-attachments/assets/5cff02d4-55d3-485e-b9db-d6bdc0cc52ba" />
