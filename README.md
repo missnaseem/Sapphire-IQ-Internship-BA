@@ -25,13 +25,15 @@ This dashboard is designed in a simple and easy-to-understand management dashboa
 ## 4. KPI definitions
 - Total Sales = =SUM('Amazon sales raw data'!H2:H10001) ; sum of all the sales
 - Profit Margin % = =SUM('Amazon sales raw data'!I2:I10001)/SUM('Amazon sales raw data'!H2:H10001) ; profits/sales
+- Total orders =COUNTA of all order_ids
 - Return Rate % = total orders returned / total orders
+- Cancellation rate % = total orders cancelled / total orders
+- [NOTE - FORMULAS ARE USED IN WORKSHEETS AT REQUIRED PLACES ACCORDING TO THE CELL REFERENCES]
 
   
 ## 5. Dashboard preview
 - RAW DATA - [Amazon Sales Data India.xlsx](https://github.com/user-attachments/files/35541806/Amazon.Sales.Data.India.xlsx)
 - DASHBOARD PDF - [Amazon Sales Data India (1).pdf](https://github.com/user-attachments/files/35541982/Amazon.Sales.Data.India.1.pdf)
-- COMPLETE PROJECT PDF - [Amazon sales complete project.pdf](https://github.com/user-attachments/files/35542921/Amazon.sales.complete.project.pdf)
 - DASHBOARD - <img width="1282" height="762" alt="image" src="https://github.com/user-attachments/assets/43ff9909-8d10-4b84-86e9-d1fb78fc8153" />
 - OBJECTIVES -<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d1750ac-f2ce-405f-bf65-5248fb10317a" />
 <img width="1740" height="862" alt="image" src="https://github.com/user-attachments/assets/5cff02d4-55d3-485e-b9db-d6bdc0cc52ba" />
