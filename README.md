@@ -42,14 +42,18 @@ This dashboard is designed in a simple and easy-to-understand management dashboa
 
 
 ## 6. Key findings
-1. [A finding with a number, for example: Category X gives Y% of total sales]
-2. [Finding 2]
-3. [Finding 3]
+1. PROFIT MARGIN TREND : The profit margin was around 21% in 2024. It dropped to 14% in first half of 2025 and increased to 22% by the second half of 2025.
+2. CATEGORY PERFORMANCE : Electronics and mobiles is the largest category in terms of sales and profit, with approximately 12.36 CR recorded sales. Pantry and groceries has the lowest sales.
+3. ORDER STATUS : 81.47% of orders were delivered , while total 9.85% were returned[4.85%] and cancelled[5%]. The value of returned and cancelled orders is approximately 1.56 CR , which represents 10.04% of total sales.
+4. PAYMENT AND GEOGRAPHIC PERFORMANCE : UPI is the largest payment method by sales contributing approximately 7.8 CR . Amazon FBA leads in fulfillment sales, contributing approximately 10.7 CR. Maharashtra is the leading state in sales and profit , with approximately 2.9 CR in sales and kerala is the lowest performing state in sales and profits.
 
    
 ## 7. Recommendations
-1. [An action the business can take, and the finding that supports it]
-2. [Recommendation 2]
+1. IMPROVE PROFIT MARGIN - Focus on controlling costs and maintaining the profit margin , especially during months when it decreases.
+2. IMPROVE LOW-SELLING CATEGORIES - The business should check its demand , product range and pricing. Increase promotions and customer reviews of product for better product performance.
+3. MANAGE AND REDUCE RETURNS AND CANCELLETAIONS - Identify the reasons behind returns and cancellations and take necessary steps to reduce them.
+4. IMPROVE DELIVERY PERFORMANCE - Focus on better order handling and deliveries to increase successful deliveries and reduce returns and customer complaints.
+5. FOCUS ON HIGH SELLING STATES - Maintain sales and good performance in Maharashtra and explore opportunities to increase sales in other states by exploring market , understanding competitor strategy and increasing manpower which will help business to improve its turnover and market capital.  
 
    
 ## 8. How to use the dashboard
