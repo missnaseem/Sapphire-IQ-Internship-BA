@@ -37,7 +37,7 @@ This dashboard is designed in a simple and easy-to-understand management dashboa
 - RAW DATA - [Amazon Sales Data India.xlsx](https://github.com/user-attachments/files/35541806/Amazon.Sales.Data.India.xlsx)
 - DASHBOARD PDF - [Amazon Sales Data India (1).pdf](https://github.com/user-attachments/files/35541982/Amazon.Sales.Data.India.1.pdf)
 - DASHBOARD - <img width="1282" height="762" alt="image" src="https://github.com/user-attachments/assets/43ff9909-8d10-4b84-86e9-d1fb78fc8153" />
-- OBJECTIVES -<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d1750ac-f2ce-405f-bf65-5248fb10317a" />
+- OBJECTIVES -<img width="1250" height="719" alt="image" src="https://github.com/user-attachments/assets/58b3130b-726e-4dce-a713-56e24e0bf600" />
 <img width="1740" height="862" alt="image" src="https://github.com/user-attachments/assets/5cff02d4-55d3-485e-b9db-d6bdc0cc52ba" />
 <img width="1458" height="848" alt="image" src="https://github.com/user-attachments/assets/616d1745-3f87-47e2-88b4-388d41e93475" />
 <img width="1310" height="866" alt="image" src="https://github.com/user-attachments/assets/a10d97a7-e1cf-464a-8d25-0e79e1d912e4" />
