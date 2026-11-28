@@ -16,11 +16,13 @@ This dashboard is designed in a simple and easy-to-understand management dashboa
 - section 2 - Category and product performance;
 - section 3 - Order status and revenue loss;
 - section 4 - Payment, fulfillment and geographic performance
+  
 
 ## 3. Data preparation
 - Checks done: neither duplicate values nor missing values found in the dataset
 - Fields I created: created order_month column to analyze changing sales and profit trends over the months and years.  
-- How I treated cancelled and returned orders: Kept all the cancelled and returned records as provided in the dataset.Analyzed orders separately using order_status.Compared order counts and sales values to understand cancellations and returns.Did not treat cancelled or returns sales as actual financial loss statements for business because this approach provides  a more accurate picture of business performance whole helping identify potential issues in order fulfillment  , customer satisfaction and returns. 
+- How I treated cancelled and returned orders: Kept all the cancelled and returned records as provided in the dataset.Analyzed orders separately using order_status.Compared order counts and sales values to understand cancellations and returns.Did not treat cancelled or returns sales as actual financial loss statements for business because this approach provides  a more accurate picture of business performance whole helping identify potential issues in order fulfillment  , customer satisfaction and returns.
+  
 
 ## 4. KPI definitions
 - Total Sales = =SUM('Amazon sales raw data'!H2:H10001) ; sum of all the sales
@@ -57,10 +59,18 @@ This dashboard is designed in a simple and easy-to-understand management dashboa
 
    
 ## 8. How to use the dashboard
-[Which slicers and filters exist and what they do]
-
+- The dashboard can be used to understand key performance indicators including , sales, profits, orders, profit margin, return rate and cancellation rate.
+- Use the charts to compare monthly sales, profit and category performance.
+- TOP 10 filters are applied on category wise performance charts and state wise performing charts that helps to identify high performing parts of business.
+- Slicers are present in objective sheets which have detailed analysis of business that helps to filter the data according to the requirements.
+- clear the filters to return to the full chart views.
+  
 
 ## 9. Limitations
-[What the dashboard does not cover]
-
+- The dashboard is based on the available dataset.
+- It does not explain the exact reasons behind returned and cancelled orders.
+- It does not predict future sales and profits.
+- It does not compare AMAZON'S performance with other companies.
+- The value of returned and cancelled orders is not confirmed as actual financial loss.
+  
 
